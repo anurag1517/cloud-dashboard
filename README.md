@@ -2,6 +2,10 @@
 
 A responsive web application designed to monitor and manage cloud security misconfigurations across multiple cloud accounts.
 
+## Live Demo
+
+[**View Deployed Application**](https://your-deployment-url.app)
+
 ## Features
 
 - **Multi-Account Visibility**: View and filter security findings across various cloud accounts (e.g., Prod-01, Dev-02) and regions.
