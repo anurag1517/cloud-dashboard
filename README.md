@@ -4,7 +4,7 @@ A responsive web application designed to monitor and manage cloud security misco
 
 ## Live Demo
 
-[**View Deployed Application**](https://your-deployment-url.app)
+[**View Deployed Application**](https://cloud-dashboard-8qmu.vercel.app/)
 
 ## Features
 
