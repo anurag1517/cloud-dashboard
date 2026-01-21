@@ -1,4 +1,8 @@
-# React + Vite
+# Cloud Security Dashboard
+
+Combating Cloud Security Alert Fatigue
+
+## Development Setup (React + Vite)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
