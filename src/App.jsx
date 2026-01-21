@@ -1,5 +1,5 @@
 import React from 'react';
-import CloudPostureDashboard from '../../cloud-dashboard/src/components/CloudPostureDashboard';
+import CloudPostureDashboard from './components/CloudPostureDashboard';
 import './App.css';
 
 function App() {
